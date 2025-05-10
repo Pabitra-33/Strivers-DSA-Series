@@ -53,9 +53,9 @@ Strivers-DSA-Series/
 
 # Each folder contains:
 
-- ✅ Problem Statement (if needed)
+- ✅ Problem Statement
 
-- 📝 Code Solution (mostly in C++/Java/Python as per your choice)
+- 📝 Code Solution (mostly in Java as i preffered java)
 
 - 💡 Explanation or Comments
 
@@ -63,15 +63,15 @@ Strivers-DSA-Series/
 <br>
 # ✨ Features
 
-- ✅ Structured and topic-wise breakdown of DSA problems
+- ✅ Structured and topic-wise breakdown of DSA problems.
 
-- 📚 Clean, readable, and optimized code
+- 📚 Clean, readable, and optimized code.
 
-- 🧠 Helpful comments and approaches for better understanding
+- 🧠 Helpful comments and approaches for better understanding.
 
-- 🎯 Consistent progress toward interview preparation
+- 🎯 Consistent progress toward interview preparation.
 
-- 💬 Easy to follow for self-study and revision
+- 💬 Easy to follow for self-study and revision.
 <br>
 
 # 📖 How to Use
